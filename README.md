@@ -67,15 +67,6 @@ This work addresses this limitation by providing a structured explainability fra
 ---
 
 
-## Future Enhancements
-
-- Extension of explainability analysis to other CNN architectures  
-- Quantitative evaluation of perceptual quality  
-- Real-time neural style transfer with interpretability  
-- Integration with advanced vision models  
-
----
-
 ## Author
 
 Ayushmaan Dutta
