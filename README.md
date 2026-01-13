@@ -66,11 +66,6 @@ This work addresses this limitation by providing a structured explainability fra
 
 ---
 
-## Use Case
-
-This project is suitable for academic research, coursework, explainable AI demonstrations, and computer vision studies, including IEEE-style research publications.
-
----
 
 ## Future Enhancements
 
